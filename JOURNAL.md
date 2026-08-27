@@ -1,8 +1,15 @@
 # Mini USB Devboard
 
+<!--toc:start-->
+- [Mini USB Devboard](#mini-usb-devboard)
+  - [26/08/2026: Made the Schematic](#26082026-made-the-schematic)
+  - [26/08/2026: Finished the PCB](#26082026-finished-the-pcb)
+  - [27/08/2026: A Simple Case](#27082026-a-simple-case)
+<!--toc:end-->
+
 A little CH552G USB Devboard, for quickly testing ideas.
 
-Total hours: 2h
+Total hours: 4h
 
 ## 26/08/2026: Made the Schematic
 
@@ -23,3 +30,17 @@ Also made the PCB, using it as the USB connector.
 ![A render of the pcb with all the components](assets/Pcb-render.png)
 It has 2 LEDs on it, as well as two touch pads for inputs
 All the other pins are available on the header with a nice cheat sheet on the underside.
+
+## 27/08/2026: A Simple Case
+
+Time Spent: 1h
+I didn't want to obscure the underside of the pcb, since I put a pin cheatsheet there, so I went with an open-bottom case
+The case is supposed to be snap fit.
+![](assets/cad-case.png)
+
+## 27/08/2026: Finding Components
+
+Time Spent: 1h
+Finally got and found all the components for the build.
+With the new EU tariffs, china is not feasible for small quantities. Thankfully TME had most of the components.
+It's my first time picking components out, so I hope they will all be good.
