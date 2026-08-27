@@ -11,6 +11,8 @@
 <!--toc:end-->
 
 A little CH552G USB devboard, for quickly testing ideas.
+I wanted a little board, with nice headers for quickly testing modules/ideas, as whenever i need one I can't find one.
+That or I don't have the correct cable (shoutout to the RPi Pico's micro usb). It will also be my first time soldering smd, so that will be fun.
 
 ## Features
 
@@ -21,7 +23,7 @@ A little CH552G USB devboard, for quickly testing ideas.
 
 ## Schematic
 
-
+[View in KiCanvas](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FFraI3mega%2Fmini-devboard%2Ftree%2Fmain%2FPCB)
 ![](assets/schematic-readme.png)
 
 
@@ -31,6 +33,8 @@ A little CH552G USB devboard, for quickly testing ideas.
 The PCB itself is the USB jack.
 
 ## Case
+
+[View in Onshape](https://cad.onshape.com/documents/f293c0d155c2cb71ac8b7631/w/f75f334043fc1f5ab23cc771/e/bf8eef9c1f6021e41664814e?renderMode=0&uiState=6a90c964f0a2f41ef771161a)
 ![alt text](./assets/cad-case.png) 
 The PCB is press fit into the case, which adds the necessary thickness for the USB jack.
 
