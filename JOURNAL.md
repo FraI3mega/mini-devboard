@@ -10,7 +10,7 @@
 
 A little CH552G USB Devboard, for quickly testing ideas.
 
-Total hours: 7h
+Total hours: 8h
 
 ## 26/08/2026: Made the Schematic
 
@@ -48,5 +48,7 @@ It's my first time picking components out, so I hope they will all be good.
 Also got to work on filling out the README a bit more.
 
 ## 28/08/2026: Quick Firmware
+Time Spent: 1h
 Just realised that I had used the wrong pins for the the touch pads, should be correct now
 Modified the blink code to add a quick touch test. Have to work on it.
+I'm honestly tired and just want to be done with this

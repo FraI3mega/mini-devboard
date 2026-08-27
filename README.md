@@ -36,7 +36,7 @@ The PCB is press fit into the case, which adds the necessary thickness for the U
 
 ## Firmware
 
-The included firmware blinks one led, and toggles the other one with the touchpad closer to the USB jack.
+The included firmware blinks one led, and lights the other one with the touchpad closer to the USB jack.
 
 ## BOM
 
