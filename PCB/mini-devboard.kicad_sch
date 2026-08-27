@@ -2944,16 +2944,6 @@
 		)
 		(uuid "ff77b372-91de-4eec-b046-16f994efa954")
 	)
-	(label "P1.7"
-		(at 50.8 81.28 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "0322837f-b41e-4911-b5e5-f46bc0470ae8")
-	)
 	(label "SDA"
 		(at 179.07 40.64 0)
 		(effects
@@ -3014,16 +3004,6 @@
 		)
 		(uuid "3be31bbd-0642-4c91-bf4d-a8602b6fbe97")
 	)
-	(label "P1.6"
-		(at 63.5 81.28 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3f164775-5abc-4634-b1f8-5cd326c15826")
-	)
 	(label "D+"
 		(at 100.33 86.36 180)
 		(effects
@@ -3045,12 +3025,12 @@
 		(uuid "45510c60-8933-4e44-ac30-f1b69deefe47")
 	)
 	(label "Touch1"
-		(at 100.33 73.66 180)
+		(at 124.46 88.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "4e2078c8-20d2-4d9a-8369-fe66b424d404")
 	)
@@ -3063,6 +3043,16 @@
 			(justify left bottom)
 		)
 		(uuid "559891fc-90c6-4377-84d5-fd458cf9c17f")
+	)
+	(label "P3.1"
+		(at 100.33 76.2 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5b33a9b0-6ec6-46e4-b26c-438346fd106c")
 	)
 	(label "SCL"
 		(at 45.72 83.82 0)
@@ -3115,16 +3105,6 @@
 		(uuid "7c9064cb-f40d-4154-9b44-6fec3edd00d7")
 	)
 	(label "Touch2"
-		(at 100.33 76.2 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "811d1b06-f8c0-4be7-9742-74b61eded8dc")
-	)
-	(label "P1.6"
 		(at 124.46 86.36 0)
 		(effects
 			(font
@@ -3132,7 +3112,17 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "8394a1eb-c822-4c5d-9b73-c6efe7093bc5")
+		(uuid "811d1b06-f8c0-4be7-9742-74b61eded8dc")
+	)
+	(label "P3.0"
+		(at 100.33 73.66 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8e1b42c7-e1a0-4b56-8a94-e80637ee2a1c")
 	)
 	(label "Touch2"
 		(at 140.97 30.48 180)
@@ -3143,6 +3133,16 @@
 			(justify right bottom)
 		)
 		(uuid "90ab6ac9-c44a-4561-bcc4-2ca7b4b7e6e5")
+	)
+	(label "P3.1"
+		(at 50.8 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "94c21822-ea40-48ed-ae85-1f1788855d58")
 	)
 	(label "SDA"
 		(at 100.33 83.82 180)
@@ -3164,16 +3164,6 @@
 		)
 		(uuid "954bb44b-e2e5-4c58-8b9f-0bc5a276fddc")
 	)
-	(label "P1.7"
-		(at 124.46 88.9 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9e604f38-a82c-47bd-a3d4-96db5a3d9e7f")
-	)
 	(label "SCL"
 		(at 179.07 38.1 0)
 		(effects
@@ -3193,6 +3183,16 @@
 			(justify right bottom)
 		)
 		(uuid "c85b0a18-0eb2-4a91-8c7e-e7f6373fe3ea")
+	)
+	(label "P3.0"
+		(at 63.5 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cbd5e95a-f1f6-4417-9406-3b15e3dbc4c6")
 	)
 	(label "LED2"
 		(at 124.46 81.28 0)
@@ -3333,7 +3333,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "04a8a5a6-c23a-430b-bb0d-a5c21e74f6ec")
 		(property "Reference" "R4"
@@ -4666,7 +4666,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "734b4891-a0d4-4860-bb33-c359d960829d")
 		(property "Reference" "R5"
